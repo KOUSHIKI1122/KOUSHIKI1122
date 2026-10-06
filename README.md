@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Fascinated%20by%20the%20brain%20%F0%9F%A7%A0&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
-type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Fascinated%20by%20the%20brain&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+
 
 <a href="https://github.com/KOUSHIKI1122">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF7EB6&center=true&vCenter=true&width=560&lines=Neuroscience+and+code;Spiking+neurons%2C+brainwaves%2C+memory;Making+the+brain+fun+to+play+with" alt="typing" />
