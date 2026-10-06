@@ -31,7 +31,10 @@ I'm interested in how the brain works, and I turn what I learn into small, playf
 | [**v1-vision-lab**](https://github.com/KOUSHIKI1122/v1-vision-lab) | What the first stage of visual cortex "sees" |
 | [**spike-symphony**](https://github.com/KOUSHIKI1122/spike-symphony) | Spiking neurons turned into music |
 | [**brain-trivia-cli**](https://github.com/KOUSHIKI1122/brain-trivia-cli) | A neuroscience quiz in your terminal |
+| [**stem-cell-colony-simulator**](https://github.com/KOUSHIKI1122/stem-cell-colony-simulator) | Interactive cellular automaton styled as a stem cell colony |
 
+###Dept web page design
+| [**IITG-HST-page**](https://github.com/KOUSHIKI1122/IITG-HST-page) | Department web page in two styles, arcade and formal |
 ### Stats
 
 <div align="center">
